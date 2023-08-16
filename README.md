@@ -1,4 +1,4 @@
-# NASDAQ-Stock-Co-Pilot
+# NASDAQ-Stock-Co-Pilot (not finished)
 
 ## Description ---------------------------------------------
 
