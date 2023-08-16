@@ -36,4 +36,3 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 
 - [Yahoo Finance](https://finance.yahoo.com/)
 - 
->>>>>>> 4281a8c (Create README.md)
