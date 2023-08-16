@@ -8,6 +8,7 @@ import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 
 
+
     /**
      * This class is the main GUI of the project.
      * It contains three panels on the ContentPane: logoPanel, centerPanel and messagePanel.
