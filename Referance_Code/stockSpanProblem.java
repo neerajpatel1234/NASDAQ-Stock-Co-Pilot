@@ -5,6 +5,7 @@ public class stockSpanProblem{
 // solution for stock span problem
 // without using stack
 
+
     // An efficient method to calculate
     // stock span values implementing the
     // same idea without using stack
