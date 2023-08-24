@@ -11,7 +11,7 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 - 52-week high
 - 52-week low
 - Market cap
-- Volume
+- Volume (VIX)
 - Volatility 
 - Dividend yield
 - Earnings per share
