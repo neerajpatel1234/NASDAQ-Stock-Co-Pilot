@@ -20,7 +20,6 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 ## Screenshots of the Application ---------------------------------------------
 
 
-
 ## Language and Tools Used ---------------------------------------------
 
 - Java (AZUL JDK)
@@ -29,7 +28,9 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 
 ## How to Run ---------------------------------------------
 
-1. 
+1. Download Zip Package.
+2. Open GUI file (openJDK 19)
+3. Enjoy !!!
 
 ## Sources Used ---------------------------------------------
 
