@@ -28,9 +28,9 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 
 ## How to Run ---------------------------------------------
 
-1. Download Zip Package.
-2. Open GUI file (openJDK 19)
-3. Enjoy !!!
+1. Download Zip File
+2. Open in IDE using OpenJDK 19 (recommended)
+3. Enjoy !!! 
 
 ## Sources Used ---------------------------------------------
 
