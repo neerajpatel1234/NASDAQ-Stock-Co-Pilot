@@ -20,7 +20,6 @@ additionally, it will allow me to see how the market is doing as a whole. This a
 ## Screenshots of the Application ---------------------------------------------
 
 
-
 ## Language and Tools Used ---------------------------------------------
 
 - Java (AZUL JDK)
