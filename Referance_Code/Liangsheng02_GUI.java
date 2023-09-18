@@ -22,7 +22,7 @@ import java.util.ArrayList;
      * which is supported by javax.swing.plaf.nimbus.NimbusLookAndFeel.
      *
      * @author Sheng Liang
-     */
+
     public class MarketGUI extends JFrame {
 
         private MessagePanel messagePanel;
@@ -31,7 +31,7 @@ import java.util.ArrayList;
 
         /**
          * This method would be used in centerPanel, to check whether a new window would be opened.
-         */
+
         public ArrayList<String> getStockLog() {
             return stockLog;
         }
@@ -42,7 +42,7 @@ import java.util.ArrayList;
          * otherwise displays error messages by using messagePanel.
          *
          * @param status The 8 status that get from centerPanel.
-         */
+
         public void getMessage(int status) {
             if (status == 0) {//OK
                 StockData stockData = centerPanel.getStockData();
@@ -138,3 +138,4 @@ import java.util.ArrayList;
         }
     }
 }
+         */
