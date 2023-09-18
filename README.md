@@ -32,9 +32,8 @@ Additionally, it will allow me to see how the market is doing as a whole. This a
 2. Open in IDE using OpenJDK 19 (recommended)
 3. Enjoy !!! 
 
-## Sources Used ---------------------------------------------
+## Sources Used 
 
 - 
-
 - [Yahoo Finance](https://finance.yahoo.com/)
 - 
