@@ -8,6 +8,7 @@ public class GUI {
     static JPanel mainPanel;
     static JMenuBar menuBar;
 
+
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             setupGUI();
