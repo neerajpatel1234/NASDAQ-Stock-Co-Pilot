@@ -19,21 +19,19 @@ Additionally, it will allow me to see how the market is doing as a whole. This a
 
 ## Screenshots of the Application 
 
+- 
 
 ## Language and Tools Used 
 
-- Java (AZUL JDK)
+- Java 20 (AZUL JDK)
 - IntelliJ IDE
-
 
 ## How to Run 
 
 1. Download Zip File
-2. Open in IDE using OpenJDK 19 (recommended)
+2. Open in IDE using AZULJDK 20 (recommended)
 3. Enjoy !!! 
 
-## Sources Used 
+## Data sources 
 
-- 
 - [Yahoo Finance](https://finance.yahoo.com/)
-- 
