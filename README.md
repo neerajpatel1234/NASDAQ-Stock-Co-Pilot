@@ -1,10 +1,10 @@
-# NASDAQ-Stock-Co-Pilot (not finished)
+# NASDAQ-Stock-Co-Pilot 
 
 ## Description 
 
-This is a stock market application that allows me to merge two of my passions. Economic and Computer Science by using 
-the programming language of Java. This application will allow me to keep track of my stocks and see how they are doing 
-Additionally, it will allow me to see how the market is doing as a whole. This application will be able to show me the
+Programming in Java allows me to merge my interests in computer science and economics with this stock market application. I can track the success of my stocks and evaluate the state of the market as a whole, which gives me insightful knowledge about financial patterns. By actively participating in the stock market through this application, I want to get a deeper grasp of programming ideas and economic principles.
+
+This application will be able to show the:
 - Current price of the stock
 - Change in price
 - Percent change
