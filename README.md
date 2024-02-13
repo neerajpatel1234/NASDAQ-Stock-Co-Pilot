@@ -28,10 +28,6 @@ This application will be able to show the:
 
 ## How to Run 
 
-1. Download Zip File
-2. Open in IDE using AZULJDK 20 (recommended)
-3. Enjoy !!! 
-
 ## Data sources 
 
 - [Yahoo Finance](https://finance.yahoo.com/)
