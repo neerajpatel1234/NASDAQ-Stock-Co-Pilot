@@ -1,26 +1,5 @@
 package Referance_Code;// package com.soilprod.javafx.chart.candlestick;
 
-import javafx.animation.FadeTransition;
-import javafx.animation.PathTransition;
-import javafx.beans.InvalidationListener;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
-import javafx.scene.Group;
-import javafx.scene.Node;
-import javafx.scene.chart.Axis;
-import javafx.scene.chart.LineChart;
-import javafx.scene.chart.XYChart;
-import javafx.scene.control.Tooltip;
-import javafx.scene.layout.Region;
-import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
-import javafx.scene.shape.Line;
-import javafx.scene.shape.MoveTo;
-import javafx.scene.shape.Path;
-import javafx.scene.shape.VLineTo;
-import javafx.util.Duration;
 
 import java.util.*;
 
@@ -28,7 +7,7 @@ import java.util.*;
  * Created by gzemlyakov.
  * gzemlyakov@gmail.com
  */
-class zemlyakov_CandleStickChart<X, Y> extends XYChart<X, Y> {
+class zemlyakov_CandleStickChart<X, Y>  {
     /**
      * Constructs a XYChart given the two axes. The initial content for the chart
      * plot background and plot area that includes vertical and horizontal grid
@@ -37,6 +16,7 @@ class zemlyakov_CandleStickChart<X, Y> extends XYChart<X, Y> {
      * @param xAxis X Axis for this XY chart
      * @param yAxis Y Axis for this XY chart
      */
+    /*#
     public zemlyakov_CandleStickChart(Axis<X> xAxis, Axis<Y> yAxis) {
         super(xAxis, yAxis);
     }
@@ -70,7 +50,7 @@ class zemlyakov_CandleStickChart<X, Y> extends XYChart<X, Y> {
     protected void layoutPlotChildren() {
 
     }
-    /*#
+
 
     private static final double DEFAULT_CANDLE_WIDTH = 20d;
 

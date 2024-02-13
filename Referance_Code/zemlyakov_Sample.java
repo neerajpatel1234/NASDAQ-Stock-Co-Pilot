@@ -1,24 +1,11 @@
 package Referance_Code;//package com.soilprod.javafx.chart.candlestick;
 
-import javafx.application.Application;
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
-import javafx.scene.Scene;
-import javafx.scene.chart.NumberAxis;
-import javafx.scene.chart.XYChart;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.StackPane;
-import javafx.stage.Stage;
 
 /**
  * Created by gzemlyakov.
  * gzemlyakov@gmail.com
  */
-class zemlyakov_Sample  extends Application{
-    @Override
-    public void start(Stage primaryStage) throws Exception {
-
-    }
+public class zemlyakov_Sample {
 
     /*#
     private static double[][] data = new double[][]{
